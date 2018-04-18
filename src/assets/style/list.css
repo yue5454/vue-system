@@ -1,0 +1,18 @@
+.el-button--text{font-size:1.1rem;padding:0px;}
+.el-button--text.error{color:red;}
+.operation-bar{margin-bottom: 10px;padding: 10px 0px;}
+.oper-item{display: inline-block;width: 40%;}
+.oper-search{width: 35%;}
+.ope-button{text-align: right}
+.el-table thead tr{background-color: #f2f7fa;color: #838383;}
+.el-table tbody tr:nth-child(even){background-color: #fbfcff;}
+.el-table tbody tr a{text-decoration: none; color: #409EFF;}
+.el-table .sort-caret{color: #646464;font-size: 13px;}
+.el-table .sort-caret.descending{bottom: 3px;}
+.el-table .sort-caret.ascending{top: 0px;}
+.el-table .caret-wrapper{height: 22px;}
+.page-bar{margin-top: 16px; text-align: right;}
+
+.el-select-dropdown__item span{font-size: 12px !important;}
+
+.el-select{width: 100%;}

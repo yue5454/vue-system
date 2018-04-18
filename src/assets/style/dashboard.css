@@ -1,0 +1,22 @@
+.box-card{height: auto; overflow: hidden;margin-bottom: 10px;}
+.card-chart{height: 300px; width: 100%;}
+.clearfix{font-size: 14px;}
+.el-card__header{padding: 10px 20px;}
+.el-tab-pane{padding: 0px 5px;}
+
+.el-button--text.table-btn{padding: 0px;}
+.el-button--text.error{color: red;padding: 0px;}
+
+.margin-10{margin-bottom: 10px;}
+.color-w{font-size: 12px;}
+.el-color-picker{vertical-align: middle;}
+.color-btn{text-align: right;}
+.color-bar{margin-bottom: 20px;}
+
+.el-table thead tr{background-color: #f2f7fa;color: #838383;}
+.el-table tbody tr:nth-child(even){background-color: #fbfcff;}
+.el-table tbody tr a{text-decoration: none; color: #409EFF;}
+.el-table .sort-caret{color: #646464;font-size: 13px;}
+.el-table .sort-caret.descending{bottom: 3px;}
+.el-table .sort-caret.ascending{top: 0px;}
+.el-table .caret-wrapper{height: 22px;}
